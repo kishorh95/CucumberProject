@@ -1,4 +1,6 @@
-# CucumberProject
+** Cucumber-BDD-Automation-Framework**
+
+**This framework contains sample code containing:**
 
 Cucumber Project Involves Following details:
 Feature,
